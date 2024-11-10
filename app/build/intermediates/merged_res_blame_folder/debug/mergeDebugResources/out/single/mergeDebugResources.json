@@ -1,0 +1,254 @@
+[
+    {
+        "merged": "com.example.database.app-debug-33:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.database.app-main-35:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.database.app-debug-33:/drawable_gradient.xml.flat",
+        "source": "com.example.database.app-main-35:/drawable/gradient.xml"
+    },
+    {
+        "merged": "com.example.database.app-debug-33:/drawable_ic_baseline_profile.xml.flat",
+        "source": "com.example.database.app-main-35:/drawable/ic_baseline_profile.xml"
+    },
+    {
+        "merged": "com.example.database.app-debug-33:/layout_nav_header.xml.flat",
+        "source": "com.example.database.app-main-35:/layout/nav_header.xml"
+    },
+    {
+        "merged": "com.example.database.app-debug-33:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.database.app-main-35:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.database.app-debug-33:/layout_fragment_home.xml.flat",
+        "source": "com.example.database.app-main-35:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.database.app-debug-33:/drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.database.app-pngs-29:/drawable-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.database.app-debug-33:/drawable_home_icon.xml.flat",
+        "source": "com.example.database.app-main-35:/drawable/home_icon.xml"
+    },
+    {
+        "merged": "com.example.database.app-debug-33:/drawable_trial.xml.flat",
+        "source": "com.example.database.app-main-35:/drawable/trial.xml"
+    },
+    {
+        "merged": "com.example.database.app-debug-33:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.database.app-main-35:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.database.app-debug-33:/layout_recycler_add.xml.flat",
+        "source": "com.example.database.app-main-35:/layout/recycler_add.xml"
+    },
+    {
+        "merged": "com.example.database.app-debug-33:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.database.app-main-35:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.database.app-debug-33:/layout_activity_buy.xml.flat",
+        "source": "com.example.database.app-main-35:/layout/activity_buy.xml"
+    },
+    {
+        "merged": "com.example.database.app-debug-33:/layout_text.xml.flat",
+        "source": "com.example.database.app-main-35:/layout/text.xml"
+    },
+    {
+        "merged": "com.example.database.app-debug-33:/layout_user_item.xml.flat",
+        "source": "com.example.database.app-main-35:/layout/user_item.xml"
+    },
+    {
+        "merged": "com.example.database.app-debug-33:/layout_fragment_search.xml.flat",
+        "source": "com.example.database.app-main-35:/layout/fragment_search.xml"
+    },
+    {
+        "merged": "com.example.database.app-debug-33:/layout_activity_home_page.xml.flat",
+        "source": "com.example.database.app-main-35:/layout/activity_home_page.xml"
+    },
+    {
+        "merged": "com.example.database.app-debug-33:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.database.app-main-35:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.database.app-debug-33:/drawable_circular_background.xml.flat",
+        "source": "com.example.database.app-main-35:/drawable/circular_background.xml"
+    },
+    {
+        "merged": "com.example.database.app-debug-33:/layout_fragment_marketplace.xml.flat",
+        "source": "com.example.database.app-main-35:/layout/fragment_marketplace.xml"
+    },
+    {
+        "merged": "com.example.database.app-debug-33:/layout_fragment_profile.xml.flat",
+        "source": "com.example.database.app-main-35:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.example.database.app-debug-33:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.database.app-main-35:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.database.app-debug-33:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.database.app-main-35:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.database.app-debug-33:/drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.database.app-pngs-29:/drawable-ldpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.database.app-debug-33:/drawable_ic_baseline_send_24.xml.flat",
+        "source": "com.example.database.app-main-35:/drawable/ic_baseline_send_24.xml"
+    },
+    {
+        "merged": "com.example.database.app-debug-33:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.database.app-main-35:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.database.app-debug-33:/drawable_market_icon.xml.flat",
+        "source": "com.example.database.app-main-35:/drawable/market_icon.xml"
+    },
+    {
+        "merged": "com.example.database.app-debug-33:/layout_activity_main.xml.flat",
+        "source": "com.example.database.app-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.database.app-debug-33:/drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.database.app-pngs-29:/drawable-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.database.app-debug-33:/layout_activity_admin_page.xml.flat",
+        "source": "com.example.database.app-main-35:/layout/activity_admin_page.xml"
+    },
+    {
+        "merged": "com.example.database.app-debug-33:/drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.database.app-pngs-29:/drawable-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.database.app-debug-33:/drawable_image.png.flat",
+        "source": "com.example.database.app-main-35:/drawable/image.png"
+    },
+    {
+        "merged": "com.example.database.app-debug-33:/drawable-v24_img.png.flat",
+        "source": "com.example.database.app-main-35:/drawable-v24/img.png"
+    },
+    {
+        "merged": "com.example.database.app-debug-33:/layout_not.xml.flat",
+        "source": "com.example.database.app-main-35:/layout/not.xml"
+    },
+    {
+        "merged": "com.example.database.app-debug-33:/menu_dmenu.xml.flat",
+        "source": "com.example.database.app-main-35:/menu/dmenu.xml"
+    },
+    {
+        "merged": "com.example.database.app-debug-33:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.database.app-main-35:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.database.app-debug-33:/layout_chat_item_left.xml.flat",
+        "source": "com.example.database.app-main-35:/layout/chat_item_left.xml"
+    },
+    {
+        "merged": "com.example.database.app-debug-33:/layout_fragment_register.xml.flat",
+        "source": "com.example.database.app-main-35:/layout/fragment_register.xml"
+    },
+    {
+        "merged": "com.example.database.app-debug-33:/layout_activity_register.xml.flat",
+        "source": "com.example.database.app-main-35:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.database.app-debug-33:/drawable_baseline_announcement_24.xml.flat",
+        "source": "com.example.database.app-main-35:/drawable/baseline_announcement_24.xml"
+    },
+    {
+        "merged": "com.example.database.app-debug-33:/drawable_agnel.png.flat",
+        "source": "com.example.database.app-main-35:/drawable/agnel.png"
+    },
+    {
+        "merged": "com.example.database.app-debug-33:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.database.app-main-35:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.database.app-debug-33:/layout_activity_additem.xml.flat",
+        "source": "com.example.database.app-main-35:/layout/activity_additem.xml"
+    },
+    {
+        "merged": "com.example.database.app-debug-33:/layout_activity_message.xml.flat",
+        "source": "com.example.database.app-main-35:/layout/activity_message.xml"
+    },
+    {
+        "merged": "com.example.database.app-debug-33:/layout_sell_stuff.xml.flat",
+        "source": "com.example.database.app-main-35:/layout/sell_stuff.xml"
+    },
+    {
+        "merged": "com.example.database.app-debug-33:/drawable_search_icon.xml.flat",
+        "source": "com.example.database.app-main-35:/drawable/search_icon.xml"
+    },
+    {
+        "merged": "com.example.database.app-debug-33:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.database.app-main-35:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.database.app-debug-33:/drawable_chat_icon.xml.flat",
+        "source": "com.example.database.app-main-35:/drawable/chat_icon.xml"
+    },
+    {
+        "merged": "com.example.database.app-debug-33:/layout_chat_item_right.xml.flat",
+        "source": "com.example.database.app-main-35:/layout/chat_item_right.xml"
+    },
+    {
+        "merged": "com.example.database.app-debug-33:/layout_fragment_chat.xml.flat",
+        "source": "com.example.database.app-main-35:/layout/fragment_chat.xml"
+    },
+    {
+        "merged": "com.example.database.app-debug-33:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.database.app-main-35:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.database.app-debug-33:/drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.database.app-pngs-29:/drawable-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.database.app-debug-33:/layout_activity_whole_page_for_event.xml.flat",
+        "source": "com.example.database.app-main-35:/layout/activity_whole_page_for_event.xml"
+    },
+    {
+        "merged": "com.example.database.app-debug-33:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.database.app-main-35:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.database.app-debug-33:/layout_fragment_notice.xml.flat",
+        "source": "com.example.database.app-main-35:/layout/fragment_notice.xml"
+    },
+    {
+        "merged": "com.example.database.app-debug-33:/drawable_ic_baseline_add_24.xml.flat",
+        "source": "com.example.database.app-main-35:/drawable/ic_baseline_add_24.xml"
+    },
+    {
+        "merged": "com.example.database.app-debug-33:/layout_toolbar.xml.flat",
+        "source": "com.example.database.app-main-35:/layout/toolbar.xml"
+    },
+    {
+        "merged": "com.example.database.app-debug-33:/drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.database.app-pngs-29:/drawable-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.database.app-debug-33:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.database.app-pngs-29:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.database.app-debug-33:/layout_activity_new_post.xml.flat",
+        "source": "com.example.database.app-main-35:/layout/activity_new_post.xml"
+    },
+    {
+        "merged": "com.example.database.app-debug-33:/xml_backup_rules.xml.flat",
+        "source": "com.example.database.app-main-35:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.database.app-debug-33:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.database.app-main-35:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.database.app-debug-33:/menu_menu.xml.flat",
+        "source": "com.example.database.app-main-35:/menu/menu.xml"
+    }
+]
